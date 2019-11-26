@@ -1,0 +1,2 @@
+E:\COBOL\COBRL00\bin\x86\Debug\COBRL00.idy
+E:\COBOL\COBRL00\obj\x86\Debug\COBRL00.idy

@@ -1,0 +1,2 @@
+C:\COBOLClass\Projects\02_01_Division_Example\02_01_Division_Example\bin\x86\Debug\_02_01_Division_Example.exe
+C:\COBOLClass\Projects\02_01_Division_Example\02_01_Division_Example\obj\x86\Debug\_02_01_Division_Example.exe
